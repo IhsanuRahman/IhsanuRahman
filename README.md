@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with a strong foundation in **Python Djang
 - **DevOps:** AWS, Nginx, Gunicorn
 - **Tools:** Git, GitHub, VS Code, WebSocket
 
-### 🛠 Projects
+### 🛠 Main Projects
 1. **[E-commerce Website](https://ihsan.website/):** A full-featured e-commerce platform built with Django, featuring online payments, cart management, order tracking, and more. It includes a powerful admin dashboard for managing users, orders, and sales reports.
 2. **[Social Media Platform](https://mediacapital.space):** A platform for sharing images and chatting with other users, integrating WebSocket for real-time communication.
 
