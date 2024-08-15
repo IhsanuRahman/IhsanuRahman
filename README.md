@@ -1,6 +1,7 @@
 ### Hi there, I'm Ihsanu Rahman 👋
 
-I'm a passionate Full Stack Developer with a strong foundation in **Python Django** for backend development and **React.js** for frontend. My journey into programming started during my 12th standard, and since then, I've developed a deep love for creating impactful web applications.
+I'm a passionate Full Stack Developer with a strong foundation in **Python Django** for backend development and **React.js** for frontend. My coding journey began before 11th and 12th standard, and since then, I've developed a deep love for creating impactful web applications.
+
 
 ### 🚀 Skills
 - **Backend:** Python, Django, REST APIs
