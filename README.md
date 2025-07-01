@@ -22,5 +22,5 @@ I'm a passionate Full Stack Developer with a strong foundation in **Python Djang
 - Advanced React concepts and python libraries.
 
 ### 📫 How to reach me
-- **Email:** [ihsanurahman@example.com](mailto:ihsanurahman@example.com)
+- **Email:** [ihsanurahman8055@email.com](mailto:ihsanurahman8055@gmail.com)
 - **LinkedIn:** [Ihsanu Rahman](https://www.linkedin.com/in/ihsanurahman)
